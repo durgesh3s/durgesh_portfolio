@@ -132,8 +132,8 @@ export const experiences = [
     img: "",
     role: "Software Developer Intern - Delhi",
     company: "Mobiloitte",
-    date: "Feb/2024 - Present",
-    desc: "I started as a trainee, Exposed a webhook for fetching and manipulating user's profile data. Implemented infinite scrolling and API rate limiter with the help of Node.js. Modified ComboTree Plugin for dropdown according to the required design and functionality.",
+    date: "Feb/2024 - Mar/2024",
+    desc: "I started as an Intern, Exposed a webhook for fetching and manipulating user's profile data. Implemented infinite scrolling and API rate limiter with the help of Node.js. Modified ComboTree Plugin for dropdown according to the required design and functionality.",
     skills: [
       "React.js",
       "MongoDB",
@@ -147,10 +147,10 @@ export const experiences = [
   {
     id: 0,
     img: "",
-    role: "Mobile App Developer Intern - Remote",
+    role: "Web App Developer Intern - Remote",
     company: "Topperworld",
     date: "Aug/2023 - Jan/2024",
-    desc: "I delivered 3 projects: To-Do App, Quiz App, Unit Converter App on time, managed effectively. Applied performance optimization for 100% improved responsiveness. Reduced load times and enhanced 100% apps optimization",
+    desc: "• Delivered projects like Landing Page, Quiz Web App on time, effectively managing 100% user and team requirements. Applied performance optimisation for improved 90% responsiveness and enhanced user experience across all web apps. Utilised HTML, CSS, and JavaScript to develop and enhance various web applications, ensuring 100% high-quality and user-friendly designs.",
     skills: [
       "Flutter",
       "Firebase",
