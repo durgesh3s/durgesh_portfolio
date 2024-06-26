@@ -132,7 +132,7 @@ export const experiences = [
     img: "",
     role: "Software Developer Intern - Delhi",
     company: "Mobiloitte",
-    date: "Feb/2024 - Mar/2024",
+    date: "Feb/2024 - Apr/2024",
     desc: "I started as an Intern, Exposed a webhook for fetching and manipulating user's profile data. Implemented infinite scrolling and API rate limiter with the help of Node.js. Modified ComboTree Plugin for dropdown according to the required design and functionality.",
     skills: [
       "React.js",
